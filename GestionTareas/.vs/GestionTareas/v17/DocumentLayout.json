@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D2DF7B-4EBB-4770-A9B8-D1BF8A4CF552}|GestionTareas\\GestionTareas.csproj|c:\\users\\administrador\\source\\repos\\workana5estrellas\\gestiontareas\\gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D2DF7B-4EBB-4770-A9B8-D1BF8A4CF552}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D2DF7B-4EBB-4770-A9B8-D1BF8A4CF552}|GestionTareas\\GestionTareas.csproj|C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\gestiontareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D2DF7B-4EBB-4770-A9B8-D1BF8A4CF552}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\GestionTareas\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\GestionTareas\\Tarea.cs",
+              "RelativeToolTip": "GestionTareas\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:59:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\GestionTareas\\Program.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\workana5estrellas\\GestionTareas\\GestionTareas\\Program.cs",
+              "RelativeToolTip": "GestionTareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:57:53.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
