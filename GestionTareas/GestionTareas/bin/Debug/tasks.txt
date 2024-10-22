@@ -1,1 +1,2 @@
 1,Comprar leche,True
+2,Lavar Ropa,False
